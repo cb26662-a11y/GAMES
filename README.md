@@ -1,2 +1,2 @@
 # GAMES
-THIS IS THE ONE
+- if you want to use this follow the instructions
